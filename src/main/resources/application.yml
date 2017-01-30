@@ -18,4 +18,3 @@ eureka:
   instance:
     nonSecurePort: 80
     preferIpAddress: false
-
